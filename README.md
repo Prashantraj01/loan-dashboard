@@ -21,4 +21,4 @@ The dashboard enables risk profiling, credit score analysis, repayment monitorin
 - KPI Reporting
 - Advanced DAX Calculations
 - Business Intelligence & Analytics
- ## Screenshot 
+ ## Screenshot - https://github.com/Prashantraj01/loan-dashboard/blob/main/snapshot%20financial.png

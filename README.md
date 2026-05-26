@@ -12,7 +12,8 @@ The dashboard enables risk profiling, credit score analysis, repayment monitorin
 - Power BI Dataflow
 - Power Query
 - DAX
-
+## Data source 
+ - Connected and managed dashboard data sources using Power BI Dataflow for centralized, scalable, and automated data integration.
 ## Key Skills Demonstrated
 - Data Modeling
 - ETL Pipeline Development
@@ -22,3 +23,4 @@ The dashboard enables risk profiling, credit score analysis, repayment monitorin
 - Advanced DAX Calculations
 - Business Intelligence & Analytics
  ## Screenshot - https://github.com/Prashantraj01/loan-dashboard/blob/main/snapshot%20financial.png
+  - https://github.com/Prashantraj01/loan-dashboard/blob/main/snapshot%20application%20demographic.png 
